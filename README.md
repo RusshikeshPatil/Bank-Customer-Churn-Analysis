@@ -141,6 +141,8 @@ Open `.pbix` file and load the cleaned CSV.
 Data Analyst — Python | SQL | Power BI
 
 📧 Email: **[rushiart77492@gmail.com](mailto:rushiart77492@gmail.com)**
+
 🔗 GitHub: **github.com/RusshikeshPatil**
+
 💼 LinkedIn: **linkedin.com/in/russhikesh-patil**
 
