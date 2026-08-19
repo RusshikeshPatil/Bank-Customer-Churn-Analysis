@@ -1,6 +1,5 @@
 # **📊 BANK CUSTOMER CHURN ANALYSIS — PYTHON & POWER BI**
 
-### **A Data Analytics Project by *Rushikesh Patil***
 
 A complete end-to-end analysis of customer churn using **Python**, **Exploratory Data Analysis (EDA)**, and **Power BI**.
 This project identifies key factors that influence customer churn and visualizes them using interactive dashboards.
