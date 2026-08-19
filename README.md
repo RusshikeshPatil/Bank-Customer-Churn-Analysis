@@ -38,6 +38,8 @@ Analyze **10,000 bank customers** to identify patterns leading to churn and deri
 
 ## **🔍 Dataset Overview**
 
+![Main Dashboard](https://github.com/RusshikeshPatil/Bank-Customer-Churn-Analysis/blob/main/Dashboard.png)
+
 Includes fields such as:
 
 * Credit Score
