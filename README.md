@@ -112,7 +112,6 @@ Includes:
 | ------------------------------- | -------------------- |
 | `Churn_Analysis.ipynb`          | Python EDA           |
 | `customer_churn.csv`            | Dataset              |
-| `customer_churn_cleaned.csv`    | BI-ready data        |
 | `Customer_Churn_Dashboard.pbix` | Power BI dashboard   |
 | `Report.pdf`                    | Full analysis report |
 | `images/`                       | Visuals              |
